@@ -1,3 +1,8 @@
-# Florida State Open Publishing Website
+# Open Scholars Project
 
-This is the website for Florida State Open Publishing, an initiative of Florida State University Libraries.
+**For Editors**
+
+* Home page *content* is `index.md`
+* Nav links are in `_includes/nav.liquid`
+* Header and footer are in `_layouts/default.html`
+* All other pages are named in a self-explanatory fashion
