@@ -1,0 +1,260 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 80px;
+  text-align: center;
+  background-color: #FFB8A2;
+  background: url(/assets/images/OpenScholarsProject_white.png) no-repeat center top fixed;
+  background-size: cover;
+}
+
+footer {
+  height: 100px;
+  padding-top: 10px;
+  text-align: center;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+footer a {
+  color: #CEB888;
+}
+ 
+ h1 {
+   color: #000000;
+   font-size: 40pt;
+}
+
+a {
+  color:#782F40;
+}
+
+.container {
+  padding: 50px;
+}
+
+.preview {
+  width: 200px;
+  height:auto;
+  float:left;
+  padding: 30px;
+  clear:left;
+}
+
+.description {
+  padding: 20px;
+  min-height: 300px;
+}
+
+table {
+  width: 100%;
+  padding: 30px;
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+}
+
+div#publications img {
+  width: auto;
+  height: 200px;
+}
+@media screen and (max-width: 4000px) {
+    .container { 
+       width: 90%;
+     }
+     
+     nav {
+       background-color:#000000;
+       width: 100%;
+       text-align: center;
+       top: 0;
+       position: fixed;
+     }
+
+     nav a {
+       color: #FFFFFF;
+       display: inline-block;
+       width: 100px;
+       height: 25px;
+       text-align: center;
+       padding: 20px;
+       text-decoration: none;
+       float:left;
+     }
+
+     nav a:hover {
+       background-color: #CEB888;
+       color: black;
+     }
+
+     .dropdown {
+         float: left;
+     }
+
+     .dropdown .dropbtn {  
+       border: none;
+       outline: none;
+       color: white;
+       padding: 20px;
+       font-size: inherit;
+       font-family: 'Roboto', sans-serif;
+       background-color: inherit;
+       margin: 0;
+     }
+
+     nav a:hover, .dropdown:hover .dropbtn {
+       background-color: #CEB888;
+       color: #2C2A29;
+     }
+
+     .dropdown-content {
+       display: none;
+       position: absolute;
+       background-color: #782F40;
+       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+       z-index: 1;
+     }
+
+     .dropdown-content a {
+       float: none;
+       color: white;
+       padding: 12px 16px;
+       text-decoration: none;
+       display: block;
+       text-align: left;
+     }
+
+     .dropdown-content a:hover {
+       background-color: #CEB888;
+     }
+
+     .dropdown:hover .dropdown-content {
+       display: block;
+     }
+     
+     h1{
+        font-size:48px;
+    }
+
+    h2{
+        font-size:36px;
+    }
+
+    header{
+        padding:150px;
+    }
+}
+@media screen and (max-width: 800px) {
+
+     .container {
+        width:550px;
+     }
+
+    h1 {
+        font-size:36px;
+    }
+
+    h2 {
+        font-size:24px;
+    }
+
+    header {
+        height:100px;
+        padding:100px;
+    }
+    nav a {
+        width:70px;
+        font-size:0.9em;
+        padding:20px;
+      }
+      
+    .dropdown .dropbtn {  
+        font-size: 0.9em;
+      }
+      
+    table,tr,td {
+      display:block;
+    }
+    
+    td img {
+      height: auto;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    
+
+    body {
+	     font-size:1.0em;
+    }
+    
+    .container {
+      width: 300px;
+      padding: 50px;
+    }
+
+    nav a {
+        width:100%;
+        font-size:0.7em;
+        padding:10px;
+    }
+    
+    .dropdown {
+      float:none;
+      indent: 10px;
+    }
+    
+    .dropdown .dropbtn {  
+      border: none;
+      outline: none;
+      width: 100%;
+      color: white;
+      font-size: 0.7em;
+      font-family: 'Roboto', sans-serif;
+      background-color: inherit;
+      text-align: center;
+      margin: 0;
+    }
+    
+    .dropdown-content {
+      width: 100%
+    }
+    
+    .dropdown-content a {
+      float: none;
+      color: white;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: center;
+    }
+
+    header {
+	     height:100px;
+	     padding-top:300px;
+    }
+
+    h1 {
+      font-size:36px;
+    }
+    
+    img {
+      width:100%;
+    }
+    
+    table,tr,td {
+      display: block;
+    }
+    
+    td img {
+      height: auto;
+    }
+    
+}
