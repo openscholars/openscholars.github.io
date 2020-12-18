@@ -10,7 +10,7 @@ GitHub is the main page for the Open Scholars Project. Here you will find an ass
 
 ## Other Links
 
-Here are some useful links for getting involved in the Open Scholars Project.
+Here are some useful links for getting involved in the Open Scholars Project:
 
 * **Discord Page**
 
