@@ -49,32 +49,32 @@ ________________________________________
 If you experience or witness unacceptable behaviour—or have any other concerns—please report it to any member of the OSP Taskforce by contacting us privately. Our contact emails can be found here. All reports will be handled with discretion.
 
 ### In your report please do your best to include:
-•	Your contact information.
-•	Identifying information (e.g. names, nicknames, pseudonyms) of the participant who has violated the code of conduct
-•	The behavior that was in violation
-•	The approximate time of the behavior (if different than the time the report was made)
-•	If possible, where the code of conduct violation happened
-•	The circumstances surrounding the incident
-•	Other people involved in the incident
-•	If you believe the incident is ongoing, please let us know.
-•	If there is a publicly available record (e.g. mailing list record), please include a link
-•	Any additional helpful information.
+•	Your contact information  
+•	Identifying information (e.g. names, nicknames, pseudonyms) of the participant who has violated the code of conduct  
+•	The behavior that was in violation  
+•	The approximate time of the behavior (if different than the time the report was made)  
+•	If possible, where the code of conduct violation happened  
+•	The circumstances surrounding the incident  
+•	Other people involved in the incident  
+•	If you believe the incident is ongoing, please let us know  
+•	If there is a publicly available record (e.g. mailing list record), please include a link  
+•	Any additional helpful information  
 
 *If, for any reason, you don’t feel comfortable reporting an incident as described above please contact Camille Thomas at cthomas5[at]fsu[dot]edu or Daniel Dunleavy at djd09e[at]fsu[dot]edu. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. We will respect confidentiality requests for the purpose of protecting victims of abuse.* 
 
 ## Open Scholar’s Project Process for Responding to Reports
-After filing a report, a representative will document your report, contact you personally (if possible), and contact the person who has violated the code of conduct to let them know they have done so. If they have your permission, the representative will review the incident with other designated taskforce members. They will then follow up with any additional questions, and have a discussion to decide how to respond. They will communicate sanctions to the person who has violated the code of conduct. Staff members will do their best to be respectful about any requests or boundaries you communicate.f
+After filing a report, a representative will document your report, contact you personally (if possible), and contact the person who has violated the code of conduct to let them know they have done so. If they have your permission, the representative will review the incident with other designated taskforce members. They will then follow up with any additional questions, and have a discussion to decide how to respond. They will communicate sanctions to the person who has violated the code of conduct. Staff members will do their best to be respectful about any requests or boundaries you communicate.
 ________________________________________
 ## Sanctions
 The following is a list of potential sanctions for anyone who violates the Code of Conduct, depending on the severity of the violation. The sanctions will be decided on collectively by a subset of the OSP Taskforce designated to review reports:
-•	Warning the harasser to cease their behaviour and that any further reports will result in sanctions
-•	Requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event
-•	Ending a talk that violates the policy early
-•	Not publishing the video or slides of a talk that violated the policy
-•	Not allowing a speaker who violated the policy to give (further) talks at the event
-•	Requiring that the harasser immediately leave the event and not return
-•	Banning the harasser from future events (either indefinitely or for a certain time period)
-•	Removing a harasser from membership of the OSP and being banned or blocked on online community platforms, e.g. OSP GitHub, Facebook, and Discord pages)   
+•	Warning the harasser to cease their behaviour and that any further reports will result in sanctions  
+•	Requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event  
+•	Ending a talk that violates the policy early  
+•	Not publishing the video or slides of a talk that violated the policy  
+•	Not allowing a speaker who violated the policy to give (further) talks at the event  
+•	Requiring that the harasser immediately leave the event and not return  
+•	Banning the harasser from future events (either indefinitely or for a certain time period)  
+•	Removing a harasser from membership of the OSP and being banned or blocked on online community platforms, e.g. OSP GitHub, Facebook, and Discord pages)     
 ________________________________________
 ### Attribution & Acknowledgements
 This Code of Conduct was based in part on that developed by OpenCon. 
