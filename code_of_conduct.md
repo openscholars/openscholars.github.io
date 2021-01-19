@@ -29,25 +29,25 @@ ________________________________________
 We value your attendance. We do not tolerate harassment of OSP participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately. OSP participants violating these rules may be sanctioned or expelled from the group. A full list of sanctions is listed below. 
 ________________________________________
 ## Definitions
-*Harassment* includes, but is not limited to:
-•	Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
-•	Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
-•	Deliberate misgendering. This includes deadnaming or persistently using a pronoun that does not correctly reflect a person’s gender identity. You must address people by the name they give you when not addressing them by their username or handle
-•	Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop
-•	Threats of violence, both physical and psychological
-•	Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
-•	Deliberate intimidation
-•	Stalking or following
-•	Harassing photography or recording, including logging online activity for harassment purposes
-•	Sustained disruption of discussion
-•	Unwelcome sexual attention, including gratuitous or off-topic sexual images or behaviour
-•	Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
-•	Continued one-on-one communication after requests to cease
-•	Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
-•	Publication of non-harassing private communication
+*Harassment* includes, but is not limited to:  
+•	Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation  
+•	Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment  
+•	Deliberate misgendering. This includes deadnaming or persistently using a pronoun that does not correctly reflect a person’s gender identity. You must address people by the name they give you   
+•	Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop  
+•	Threats of violence, both physical and psychological  
+•	Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm  
+•	Deliberate intimidation  
+•	Stalking or following  
+•	Harassing photography or recording, including logging online activity for harassment purposes  
+•	Sustained disruption of discussion  
+•	Unwelcome sexual attention, including gratuitous or off-topic sexual images or behaviour  
+•	Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others  
+•	Continued one-on-one communication after requests to cease  
+•	Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse  
+•	Publication of non-harassing private communication  
 ________________________________________
 ## Reporting Issues
-If you experience or witness unacceptable behaviour—or have any other concerns—please report it to any member of the OSP Taskforce by contacting us privately. Our contact emails can be found here. All reports will be handled with discretion.
+If you experience or witness unacceptable behaviour—or have any other concerns—please report it to any member of the OSP Taskforce by contacting us privately. Our contact emails can be found [here](https://github.com/openscholars/openscholars.github.io/blob/main/people.md). All reports will be handled with discretion.
 
 ### In your report please do your best to include:
 •	Your contact information  
@@ -78,5 +78,5 @@ The following is a list of potential sanctions for anyone who violates the Code 
 •	Removing a harasser from membership of the OSP and being banned or blocked on online community platforms, e.g. OSP GitHub, Facebook, and Discord pages)     
 ________________________________________
 ### Attribution & Acknowledgements
-This Code of Conduct was based in part on that developed by OpenCon. 
+This Code of Conduct was based in part on that developed by [OpenCon](https://www.opencon.community/). 
 
