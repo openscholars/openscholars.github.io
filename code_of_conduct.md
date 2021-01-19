@@ -4,7 +4,7 @@ This code of conduct outlines our expectations for participants within the Open 
 
 ## Code of Conduct (in Brief):
 
-Our Code of Conduct, covers, but is not limited to, two primary things:
+Our Code of Conduct, covers, but is not limited to, two primary things:  
 •	Physical, sexual, and verbal harassment are unacceptable: we have a zero tolerance policy. 
 
 •	Don’t discriminate against people because of their identity (e.g. race, gender, sexuality, age, class background, ability, religion and more).
@@ -16,6 +16,7 @@ Ask for permission before you engage in physical interactions with participants 
 
 ### Be careful about the words you use. Is the language that you’re using discriminatory?
 There is a lot of everyday language which discriminates against people. Using racial slurs, or phrases like “that’s lame”, “that’s gay”, or “that’s retarded” may seem harmless to some, but actually discriminates against minorities such as people of colour, LGBTQ+ people, or those with disabilities. If someone calls you out for using problematic language, please take the time to listen, apologize, and put effort into not using the language again. You may be asked to leave the community for using this kind of language.
+
 ### Be mindful of how much time and space you’re taking up. Be aware of your power and privilege, and whether you’re taking advantage of it.
 Are you a man who is taking up all the time for questions in a workshop full of mostly female participants? Are you a Western academic who isn’t giving a chance for a participant from an underrepresented country to speak? Are you attempting to engage in a physical or intimate interaction with someone who doesn’t have the capacity to consent? (E.g. at an evening social event with alcohol). Are you taking the time to listen to the perspectives of those who are different from you?
 ________________________________________
@@ -66,8 +67,8 @@ If you experience or witness unacceptable behaviour—or have any other concerns
 After filing a report, a representative will document your report, contact you personally (if possible), and contact the person who has violated the code of conduct to let them know they have done so. If they have your permission, the representative will review the incident with other designated taskforce members. They will then follow up with any additional questions, and have a discussion to decide how to respond. They will communicate sanctions to the person who has violated the code of conduct. Staff members will do their best to be respectful about any requests or boundaries you communicate.
 ________________________________________
 ## Sanctions
-The following is a list of potential sanctions for anyone who violates the Code of Conduct, depending on the severity of the violation. The sanctions will be decided on collectively by a subset of the OSP Taskforce designated to review reports:
-•	Warning the harasser to cease their behaviour and that any further reports will result in sanctions  
+The following is a list of potential sanctions for anyone who violates the Code of Conduct, depending on the severity of the violation. The sanctions will be decided on collectively by a subset of the OSP Taskforce designated to review reports:  
+•	Warning the harasser to cease their behaviour and that any further reports will result in sanctions    
 •	Requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event  
 •	Ending a talk that violates the policy early  
 •	Not publishing the video or slides of a talk that violated the policy  
