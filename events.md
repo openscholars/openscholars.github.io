@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 
-<h3><a href="https://calendar.fsu.edu/event/OpenScholarsProject1#.X8pZNZNKjR0">Open in Light of COVID</a></h3>
+### <h3><a href="https://calendar.fsu.edu/event/OpenScholarsProject1#.X8pZNZNKjR0">Open in Light of COVID</a></h3>
 **January 20, 2021**
 
 Put content here!!!
