@@ -6,7 +6,7 @@ The Open Scholars Project is an informal forum to learn about and discuss develo
 
 ## Getting Involved and Navigating the Site
 
-GitHub is the main page for the Open Scholars Project. Here you will find an assortment of links, such as a schedule of events, [Code of Conduct](https://github.com/openscholars/openscholars.github.io/blob/main/code_of_conduct.md), resources hub, projects hub, and more!
+GitHub is the main page for the Open Scholars Project. Here you will find an assortment of links, such as a [schedule of events](https://github.com/openscholars/openscholars.github.io/blob/main/events.md), [Code of Conduct](https://github.com/openscholars/openscholars.github.io/blob/main/code_of_conduct.md), resources hub, projects hub, and more!
 
 ## Other Links
 
