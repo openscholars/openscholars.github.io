@@ -1,13 +1,3 @@
----
-layout: default
-title: People
-permalink: /people/
----
-
-### Propose a Publishing Project
-
-To propose a publishing project, please complete our Digital Project Consultation Request form at [https://www.lib.fsu.edu/DRS/form/contact-us](https://www.lib.fsu.edu/DRS/form/contact-us) and a member of our team will be in touch. 
-
 ### Open Scholarship Taskforce
 
 Camille Thomas, Scholarly Communication Librarian, cthomas5[at]fsu[dot]edu
