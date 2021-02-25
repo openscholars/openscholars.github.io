@@ -2,6 +2,7 @@
 layout: default 
 title: Social Media
 permalink: /social_media/
+handle: Social Media
 ---
 
 Here are some useful links for getting involved in the Open Scholars Project:
