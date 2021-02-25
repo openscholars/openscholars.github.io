@@ -1,7 +1,7 @@
 ---
 layout: default 
-3title: Events
-permalink: /events/
+title: People
+permalink: /people/
 ---
 
 # Open Scholarship Taskforce
