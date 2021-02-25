@@ -1,3 +1,9 @@
+---
+layout: default 
+3title: Events
+permalink: /events/
+---
+
 # Open Scholarship Taskforce
 
 **Camille Thomas**  
