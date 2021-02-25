@@ -3,8 +3,7 @@ title: Open Scholars Project
 layout: default
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+The Open Scholars Project is an informal forum to learn about and discuss developments in open access. The group will allow FSU researchers and scholars to share experiences with open publishing, code and data across subject areas. We aim to create a group that is also action-oriented and supportive in bringing faculty, post-docs and graduate students together. The group will meet virtually every 4th Friday in Spring 2021 at 1pm from late January to late April.
 
 
 
