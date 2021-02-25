@@ -1,3 +1,9 @@
+---
+layout: default 
+title: Code of Conduct
+permalink: /Code_of_Conduct/
+---
+
 # The Open Scholars Project Code of Conduct
 
 This code of conduct outlines our expectations for participants within the Open Scholars Project (OSP) community, both online and in-person, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Members are encouraged to read the Code of Conduct in full, before participating in any OSP events and activities (including use of online forums). Anyone who violates this code of conduct may be asked to leave the community.
