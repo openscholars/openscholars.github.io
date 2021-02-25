@@ -1,7 +1,8 @@
 ---
 layout: default 
 title: Code of Conduct
-permalink: /Code_of_Conduct/
+permalink: /code_of_conduct/
+handle: Code of Conduct
 ---
 
 # The Open Scholars Project Code of Conduct
