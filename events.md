@@ -13,3 +13,6 @@ permalink: /events/
 
 ### [Challenges with Open](https://calendar.fsu.edu/event/open_scholars_project_challenges_with_open#.YFUYUp1Kg2w)
 **March 26, 2021**
+
+### [Open and Academic Careers](https://calendar.fsu.edu/event/open_scholars_project_open_in_your_careercv#.YF6jZK9Kg2w)
+**April 23, 2021**
