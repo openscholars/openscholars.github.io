@@ -4,6 +4,12 @@ title: Events
 permalink: /events/
 ---
 
+## Current Schedule
+
+###[Open Data](https://calendar.fsu.edu/event/open_scholars_project_open_data#.YLpoV6hKiUk)
+**June 18, 2021**
+
+## Past Events 
 
 ### [Open in Light of COVID](https://calendar.fsu.edu/event/OpenScholarsProject1#.X8pZNZNKjR0)
 **January 20, 2021**
