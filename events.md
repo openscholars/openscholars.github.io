@@ -6,19 +6,20 @@ permalink: /events/
 
 ## Current Schedule
 
-### [Defining Open on a Spectrum: Evaluating Quality and Ethics]()  
+### [Defining Open on a Spectrum: Evaluating Quality and Ethics](https://calendar.fsu.edu/event/open_scholars_project_open_spectrum_quality_and_ethics)  
 **August 13, 2021**
 
-### [Open Access Policies]()  
+### [Open Access Policies](https://calendar.fsu.edu/event/open_scholars_project_open_access_policies)  
 **September 10, 2021**
 
-### [Equity, Diversity, and Inclusion and Open Access]()  
+### [Equity, Diversity, and Inclusion and Open Access](https://calendar.fsu.edu/event/open_scholars_project_equity_diversity_and_inclusion_in_open_access)  
 **October 15, 2021**
 
-### [Open Data and Public Scholarship]()  
+### [Open Data and Public Scholarship](https://calendar.fsu.edu/event/open_scholars_project_public_scholarship_and_social_humanities_data)  
 **November 12, 2021**
 
-### [FSU Open Scholars Showcase]()  
+### [FSU Open Scholars Showcase] 
+*Details Forthcoming*
 **December 10, 2021**
 
 
