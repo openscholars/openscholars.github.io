@@ -18,8 +18,8 @@ permalink: /events/
 ### [Open Data and Public Scholarship](https://calendar.fsu.edu/event/open_scholars_project_public_scholarship_and_social_humanities_data)  
 **November 12, 2021**
 
-### [FSU Open Scholars Showcase] 
-*Details Forthcoming*
+### [FSU Open Scholars Showcase]   
+*Details Forthcoming*  
 **December 10, 2021**
 
 
