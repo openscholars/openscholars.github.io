@@ -19,8 +19,9 @@ permalink: /events/
 **November 12, 2021**
 
 ### FSU Open Scholars Showcase     
-*Details Forthcoming*  
-**December 10, 2021**
+**December 10, 2021**  
+*Details Forthcoming*
+
 
 
 ## Past Events 
