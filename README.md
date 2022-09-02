@@ -23,3 +23,9 @@ Discord is space for chatting about the Open Scholars Project, open science, ope
 https://www.facebook.com/groups/142501117253294  
 
 The Open Scholars Project Facebook Group is another space for chatting about the Open Scholars Project, open science, open access, and more! Join us and get the conversation started!
+
+**NEW site home page**
+
+https://openscholars.create.fsu.edu/
+
+This is the active site for OSP
